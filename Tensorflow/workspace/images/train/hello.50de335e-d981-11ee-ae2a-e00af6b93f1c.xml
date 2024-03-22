@@ -1,0 +1,26 @@
+<annotation>
+	<folder>collectedimages</folder>
+	<filename>hello.50de335e-d981-11ee-ae2a-e00af6b93f1c.jpg</filename>
+	<path>C:\Users\prasa\Desktop\DIP CW\RealTimeObjectDetection\Tensorflow\workspace\images\collectedimages\hello.50de335e-d981-11ee-ae2a-e00af6b93f1c.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Hello</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>49</xmin>
+			<ymin>110</ymin>
+			<xmax>320</xmax>
+			<ymax>410</ymax>
+		</bndbox>
+	</object>
+</annotation>
