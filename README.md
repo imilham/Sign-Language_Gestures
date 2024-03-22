@@ -15,6 +15,13 @@ This project aims to develop a sign language detector and translator using machi
 ## Project Status
 
 This project is currently under active development and is being maintained.
+## Contributors
+
+- **GAHDSE231F-003 Ubayarathna**
+- **GAHDSE231F-011 Dewasurendra**
+- **GAHDSE231F-025 Mohamed**
+- **GAHDSE231F-033 Nuzrathdeen**
+- **GAHDSE231F-039 Vithanage**
 
 ## License
 
