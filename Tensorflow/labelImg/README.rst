@@ -12,6 +12,7 @@ LabelImg, the popular image annotation tool created by Tzutalin with the help of
 About LabelImg
 ========
 
+
 .. image:: https://img.shields.io/pypi/v/labelimg.svg
         :target: https://pypi.python.org/pypi/labelimg
 
