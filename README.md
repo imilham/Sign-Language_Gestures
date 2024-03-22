@@ -1,8 +1,8 @@
-Sign Language Translator
-Introduction
+/Sign Language Translator
+/Introduction
 This project aims to develop a sign language detector and translator using machine learning techniques. The system will be able to recognize and interpret sign language gestures, translating them into text or spoken language for improved communication with individuals who are deaf or hard of hearing.
 
-Group Members
+/Group Members
 GAHDSE231F-003 Shawindu Madushan
 GAHDSE231F-011 Dewasurendra
 GAHDSE231F-025 Mohamed
