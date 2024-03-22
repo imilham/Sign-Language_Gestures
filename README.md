@@ -18,14 +18,11 @@ This project is currently under active development and is being maintained.
 ## Contributors
 
 - **GAHDSE231F-003 Shawindu Madushan**
-- **GAHDSE231F-011 Dewasurendra**
-- **GAHDSE231F-025 Mohamed**
-- **GAHDSE231F-033 Nuzrathdeen**
-- **GAHDSE231F-039 Vithanage**
+- **GAHDSE231F-011 Prasasthi Dewasurendra**
+- **GAHDSE231F-025 Mohamed Ilham**
+- **GAHDSE231F-033 Mohamed Nuzrathdeen**
+- **GAHDSE231F-039 Masitha Vithanage**
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 ## Contact
 
