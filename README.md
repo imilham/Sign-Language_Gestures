@@ -3,7 +3,7 @@ Introduction
 This project aims to develop a sign language detector and translator using machine learning techniques. The system will be able to recognize and interpret sign language gestures, translating them into text or spoken language for improved communication with individuals who are deaf or hard of hearing.
 
 Group Members
-GAHDSE231F-003 Ubayarathna
+GAHDSE231F-003 Shawingu Madushan
 GAHDSE231F-011 Dewasurendra
 GAHDSE231F-025 Mohamed
 GAHDSE231F-033 Nuzrathdeen
