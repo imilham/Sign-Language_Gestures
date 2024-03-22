@@ -26,4 +26,4 @@ This project is currently under active development and is being maintained.
 
 ## Contact
 
-For questions or inquiries, please contact [projectmaintainer@example.com](mailto:projectmaintainer@example.com).
+For questions or inquiries, please contact [im.ilhamk@gmail.com](mailto:im.ilhamk@gmail.com).
