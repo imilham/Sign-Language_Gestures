@@ -8,9 +8,12 @@ This project aims to develop a sign language detector and translator using machi
 
 ## Topics
 
+In our project, we focus on three key areas: 
 - [Machine Learning](#machine-learning)
 - [Sign Language](#sign-language)
 - [Translator](#translator)
+
+We provide a technology to translate signs into written or spoken language, study nonverbal communication, and educate computers to read and write signs.
 
 ## Project Status
 
